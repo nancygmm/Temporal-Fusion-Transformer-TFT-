@@ -187,10 +187,12 @@ Bibliotecas principales:
 
 ---
 
-## Trabajo futuro
+## Recomendaciones y mejoras
 
 - Incorporar múltiples activos y tratar el problema como una serie multivariante.
 - Explorar diferentes horizontes de predicción y funciones de pérdida.
 - Comparar empiricamente TFT con otros modelos de *Deep Learning* para series temporales.
 - Integrar el modelo en un pipeline de backtesting para evaluar estrategias de trading basadas en las predicciones de cuantiles.
 
+## Archivo publicado en GitHub Pages
+[Temporal Fusion Transformer (TFT) - Reporte en PDF](https://github.com/nancygmm/nancygmm.github.io/blob/main/Temporal%20Fusion%20Transformer%20(TFT)%20.pdf)
