@@ -196,3 +196,5 @@ Bibliotecas principales:
 
 ## Archivo publicado en GitHub Pages
 [Temporal Fusion Transformer (TFT) - Reporte en PDF](https://github.com/nancygmm/nancygmm.github.io/blob/main/Temporal%20Fusion%20Transformer%20(TFT)%20.pdf)
+
+[Presentación del proyecto](https://www.canva.com/design/DAG5THDdfK0/zNIAX3_yUi66dRIXB7lRUg/edit?utm_content=DAG5THDdfK0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
